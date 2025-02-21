@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://loohma.csgad.com/Okt/sitemap.xml.gz
